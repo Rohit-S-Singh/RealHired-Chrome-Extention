@@ -1,4 +1,4 @@
-# Hiredd Chrome Extension
+# RealHired Chrome Extension
 
 ___________________________________________________________________________________
 
